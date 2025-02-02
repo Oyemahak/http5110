@@ -1,18 +1,18 @@
-# Web Design
+# Intro to Web Development
 
-This repository contains the assignments and projects for my **Web Design** course. The focus is on mastering **HTML** and **CSS** in-depth, learning to design responsive and accessible websites with an emphasis on user-centered design.
+This repository contains my work from the **Intro to Web Development** course. In this course, I am learning about **CLI tools**, **Docker**, **accessibility**, and the foundational concepts of web development, focusing on building and deploying websites.
 
-### Technologies:
-- HTML5
-- CSS3 (Responsive Design)
-- Accessibility in Web Design
+### Key Learnings:
+- Command Line Interface (CLI)
+- Docker basics
+- Web development accessibility
 
-### Professor: Joanna Kommala
+### Professor: Bernard Monette
 
-## How to Use
-Clone the repository to access my web design projects.
+## Installation
+Clone this repository to begin working with introductory web development topics.
 
 ```bash
-git clone https://github.com/Oyemahak/http5121
-cd http5121
-# Set up environment and explore repository-specific instructions
+git clone https://github.com/Oyemahak/http5110
+cd http5110
+# Set up your environment as per repository instructions
